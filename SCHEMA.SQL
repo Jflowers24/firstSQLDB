@@ -59,4 +59,14 @@ VALUES('Blair Johnson', 3, 6172005);
 INSERT INTO Staff (name, workid, dob)
 VALUES('Quack', 4, 3041990);
 
+INSERT INTO books (author, illustrator, genre, pagenum, title,)
+VALUES ('Jeremiah Towers', 'Jeremiah Towers', 'Childrens Literature',12, 'How To change a Tire');
+INSERT INTO books (author, illustrator, genre, pagenum, title,)
+VALUES ('John Stacey', 'None', 'Automotives',1200, ' Essentials of General Mototrs W body');
+INSERT INTO books (author, illustrator, genre, pagenum, title,)
+VALUES ('J.K. Rowling', 'Jim Kays', 'Adventure Drama Fantasy',320, 'Harry Potter and The Cursed Child');
+INSERT INTO books (author, illustrator, genre, pagenum, title,)
+VALUES ('Notch', 'Jeb', 'Cooking',1, 'How to Cook Eggs');
+
+
 
